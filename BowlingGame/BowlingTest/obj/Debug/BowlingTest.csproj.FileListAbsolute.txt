@@ -1,0 +1,7 @@
+C:\Bowling-Game-TDD\BowlingGame\BowlingTest\bin\Debug\BowlingTest.dll
+C:\Bowling-Game-TDD\BowlingGame\BowlingTest\bin\Debug\BowlingTest.pdb
+C:\Bowling-Game-TDD\BowlingGame\BowlingTest\bin\Debug\BowlingGame.exe
+C:\Bowling-Game-TDD\BowlingGame\BowlingTest\bin\Debug\BowlingGame.pdb
+C:\Bowling-Game-TDD\BowlingGame\BowlingTest\obj\Debug\BowlingTest.csprojResolveAssemblyReference.cache
+C:\Bowling-Game-TDD\BowlingGame\BowlingTest\obj\Debug\BowlingTest.dll
+C:\Bowling-Game-TDD\BowlingGame\BowlingTest\obj\Debug\BowlingTest.pdb
